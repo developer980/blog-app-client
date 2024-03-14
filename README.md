@@ -1,3 +1,20 @@
+## The client side for the blog app
+
+
+<img width="1386" alt="image" src="https://github.com/developer980/blog-app-client/assets/91996303/84f5b312-5a88-4cdb-a8ba-7c2c9b32d18a">
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
